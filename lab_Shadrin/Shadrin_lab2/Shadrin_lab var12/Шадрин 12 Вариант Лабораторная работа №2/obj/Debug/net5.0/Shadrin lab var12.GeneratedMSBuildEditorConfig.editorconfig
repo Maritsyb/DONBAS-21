@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Шадрин_12_Вариант_Лабораторная_работа__2
+build_property.ProjectDir = C:\Users\79241\Documents\GitHub\DONBAS-21\lab_Shadrin\Shadrin_lab2\Shadrin_lab var12\Шадрин 12 Вариант Лабораторная работа №2\

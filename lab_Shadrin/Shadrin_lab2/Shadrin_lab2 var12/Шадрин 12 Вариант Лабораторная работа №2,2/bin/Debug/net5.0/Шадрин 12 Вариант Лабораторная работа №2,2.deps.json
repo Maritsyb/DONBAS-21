@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Шадрин 12 Вариант Лабораторная работа №2,2/1.0.0": {
+        "runtime": {
+          "Шадрин 12 Вариант Лабораторная работа №2,2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Шадрин 12 Вариант Лабораторная работа №2,2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

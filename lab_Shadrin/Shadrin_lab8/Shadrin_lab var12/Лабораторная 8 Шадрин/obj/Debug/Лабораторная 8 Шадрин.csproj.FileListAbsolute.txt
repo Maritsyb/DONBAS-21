@@ -1,0 +1,8 @@
+C:\Users\79241\Desktop\Лабораторная 8 Шадрин\Лабораторная 8 Шадрин\bin\Debug\Лабораторная 8 Шадрин.exe.config
+C:\Users\79241\Desktop\Лабораторная 8 Шадрин\Лабораторная 8 Шадрин\bin\Debug\Лабораторная 8 Шадрин.exe
+C:\Users\79241\Desktop\Лабораторная 8 Шадрин\Лабораторная 8 Шадрин\bin\Debug\Лабораторная 8 Шадрин.pdb
+C:\Users\79241\Desktop\Лабораторная 8 Шадрин\Лабораторная 8 Шадрин\obj\Debug\Лабораторная 8 Шадрин.csproj.AssemblyReference.cache
+C:\Users\79241\Desktop\Лабораторная 8 Шадрин\Лабораторная 8 Шадрин\obj\Debug\Лабораторная 8 Шадрин.csproj.SuggestedBindingRedirects.cache
+C:\Users\79241\Desktop\Лабораторная 8 Шадрин\Лабораторная 8 Шадрин\obj\Debug\Лабораторная 8 Шадрин.csproj.CoreCompileInputs.cache
+C:\Users\79241\Desktop\Лабораторная 8 Шадрин\Лабораторная 8 Шадрин\obj\Debug\Лабораторная 8 Шадрин.exe
+C:\Users\79241\Desktop\Лабораторная 8 Шадрин\Лабораторная 8 Шадрин\obj\Debug\Лабораторная 8 Шадрин.pdb

@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = Шадрин_Вариант_12_Лабораторная_работа_12__1_3
+build_property.ProjectDir = C:\Users\Master\Desktop\Шадрин Вариант 12 Лабораторная работа 12 №1,3\Шадрин Вариант 12 Лабораторная работа 12 №1,3\
