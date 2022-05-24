@@ -1,0 +1,15 @@
+C:\Users\Пользователь\source\repos\практичка2\практичка2\bin\Debug\net6.0\практичка2.exe
+C:\Users\Пользователь\source\repos\практичка2\практичка2\bin\Debug\net6.0\практичка2.deps.json
+C:\Users\Пользователь\source\repos\практичка2\практичка2\bin\Debug\net6.0\практичка2.runtimeconfig.json
+C:\Users\Пользователь\source\repos\практичка2\практичка2\bin\Debug\net6.0\практичка2.dll
+C:\Users\Пользователь\source\repos\практичка2\практичка2\bin\Debug\net6.0\практичка2.pdb
+C:\Users\Пользователь\source\repos\практичка2\практичка2\obj\Debug\net6.0\практичка2.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\практичка2\практичка2\obj\Debug\net6.0\практичка2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\source\repos\практичка2\практичка2\obj\Debug\net6.0\практичка2.AssemblyInfoInputs.cache
+C:\Users\Пользователь\source\repos\практичка2\практичка2\obj\Debug\net6.0\практичка2.AssemblyInfo.cs
+C:\Users\Пользователь\source\repos\практичка2\практичка2\obj\Debug\net6.0\практичка2.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\практичка2\практичка2\obj\Debug\net6.0\практичка2.dll
+C:\Users\Пользователь\source\repos\практичка2\практичка2\obj\Debug\net6.0\refint\практичка2.dll
+C:\Users\Пользователь\source\repos\практичка2\практичка2\obj\Debug\net6.0\практичка2.pdb
+C:\Users\Пользователь\source\repos\практичка2\практичка2\obj\Debug\net6.0\практичка2.genruntimeconfig.cache
+C:\Users\Пользователь\source\repos\практичка2\практичка2\obj\Debug\net6.0\ref\практичка2.dll
